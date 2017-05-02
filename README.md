@@ -1,4 +1,4 @@
-# Political-Consumption-Flipboard
+# See the political impact of your daily consuming
 
 Here are the top 20 American brands. You probably use at least one of them every day. See if you know where these products stand politically.
  
